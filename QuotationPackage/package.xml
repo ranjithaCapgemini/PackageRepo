@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Package xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>QuotationPackage</fullName>
+    <types>
+        <members>QuotationDemo__c.Amount__c</members>
+        <members>QuotationDemo__c.Delivery_Method__c</members>
+        <members>QuotationDemo__c.Expiration_date__c</members>
+        <members>QuotationDemo__c.Limit__c</members>
+        <members>QuotationDemo__c.No_of_LoB_s_Won__c</members>
+        <name>CustomField</name>
+    </types>
+    <types>
+        <members>QuotationDemo__c</members>
+        <name>CustomObject</name>
+    </types>
+    <types>
+        <members>QuotationDemo__c-Quotation Layout</members>
+        <name>Layout</name>
+    </types>
+    <version>42.0</version>
+</Package>
